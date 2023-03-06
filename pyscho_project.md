@@ -2,7 +2,7 @@
 ## Définition d'un jeux de rôle
 RPG = un personnages + des stats + un niveau + des équipements + des épreuves
 ## Notre jeux de rôle
-### Des épreuves basé sur le combat et les enigmes
+### Des épreuves basées sur le combat et les enigmes
 
 exemple d'énigme : le labyrinthe
 
