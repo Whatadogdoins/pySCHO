@@ -15,15 +15,15 @@ les statistiques du personnage sont modifié par son équipement pour le combat.
 
 ### Histoire
 
-Une grande épidémie dans tous le royaume (peuplé de différentes espéces mais dominé par les hommes). On recherche un reméde et on sait que dans le nord les elf blanc garde une recette secréte qui donnerons au personnage car nous auront sauver son fils sans faire exprés. dans la recettes il y a 5 ingrédients qui nous amménerons dans 5 regions différentes.
-
-- region du nord : elf blanc, tuto (on connais les stats des monstres)
-- région du désert
-- région des montagne
-- région des marais
-- région des attols
-- région de la jungle
-
+Histoire 1: Deux empires qui sont en guerre sur un grand continent ; autres îles domniée par des barbares; une île est possédée par un roi viking et des jarls / earls(conte); 
+Histoire 2: 
+- region du nord : 
+- région du désert:
+- région des montagne:
+- région des marais:
+- région des attols:
+- région de la jungle:
+- plaines d'hindervall:
 ## gestion du code
 gestion des modifications (historique + travail en commun) grâce au protocole git et au site github.
 github permet aussi de gerer les bugs et les demande d'amélioration des utilisateurs (issues).
