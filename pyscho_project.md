@@ -16,7 +16,7 @@ les statistiques du personnage sont modifié par son équipement pour le combat.
 ### Histoire
 
 Histoire 1: Deux empires qui sont en guerre sur un grand continent ; autres îles domniée par des barbares; une île est possédée par un roi viking et des jarls / earls(conte); 
-Histoire 2: 
+
 - region du nord : 
 - région du désert:
 - région des montagne:
