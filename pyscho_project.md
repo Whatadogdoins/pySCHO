@@ -12,18 +12,18 @@ les statistiques du personnage sont modifié par son équipement pour le combat.
 ### Monde
 
 !TO WRITE! elf; gobelins == fantasy...
+Les 6 régions sont reliée en 
 
 ### Histoire
 
-Histoire 1: Deux empires qui sont en guerre sur un grand continent ; autres îles domniée par des barbares; une île est possédée par un roi viking et des jarls / earls(conte); 
+Histoire : Deux empires qui sont en guerre sur un grand continent ; autres îles domniée par des barbares; une île est possédée par un roi viking et des jarls / earls(conte); 
 
-- region du nord : 
-- région du désert:
-- région des montagne:
-- région des marais:
-- région des attols:
-- région de la jungle:
-- plaines d'hindervall:
+- La fôret de la tentation : 
+- région du désert: 
+- région des montagnes: 
+- région des marais: 
+- région de la jungle: 
+- région scandinave (archipelle):
 ## gestion du code
 gestion des modifications (historique + travail en commun) grâce au protocole git et au site github.
 github permet aussi de gerer les bugs et les demande d'amélioration des utilisateurs (issues).
